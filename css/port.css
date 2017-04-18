@@ -1,0 +1,35 @@
+/*#logo{
+		font-family:'Pacifico', cursive;
+		font-size:18px;
+		left:50px;
+	}
+	#home{
+		
+		position: relative;
+	   bottom:150px;
+		margin-right:70px;
+
+	   
+	}
+	#aboutme{
+		
+		position: relative;
+		bottom:20px;
+		margin-left:90px;
+		left:90px; 
+	   
+	}
+	#portfolio
+	{
+		position: relative;
+		top:100px;
+		margin-left:90px;
+		left:190px; 
+		
+	}*/
+
+		
+	#jumbotron{
+    background-color:black;
+    text-align:center;
+}

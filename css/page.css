@@ -1,0 +1,13 @@
+#page-header{
+	/*position:relative;*/
+	font-family: 'Monoton', cursive;
+	font-size:36px;
+	text-align: center;
+	color:white;
+}
+#text{
+	color:black;
+	font-family:'Comic Sans MS', cursive, sans-serif;
+	font-size:20px;
+	
+}

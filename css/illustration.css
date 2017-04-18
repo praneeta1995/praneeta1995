@@ -1,0 +1,55 @@
+	div.svg {
+	 width:100%;
+	 padding:10px;
+	 margin-left:200px;
+	 
+	  position: relative;
+	  bottom:100px;
+
+			
+	}
+	#logo{
+		font-family:'Pacifico', cursive;
+		font-size:18px;
+		left:50px;
+	}
+	#home{
+		
+		position: relative;
+	   top:150px;
+		margin-right:80px;
+
+	   
+	}
+	#aboutme{
+		
+		position: relative;
+		top:300px;
+		margin-left:90px;
+		left:90px; 
+	   
+	}
+	#portfolio
+	{
+		position: relative;
+		top:450px;
+		margin-left:90px;
+		left:190px; 
+		
+	}
+	div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
